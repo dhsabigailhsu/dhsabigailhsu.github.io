@@ -1,6 +1,5 @@
 html{
 background-color: #b3c6ff;
-   to {background-color: blue;}
 }
 h1{
   color:Slateblue;
@@ -8,6 +7,8 @@ h1{
 }
 
 body {
-  background-colour:PaleGoldenRod;
   font-family:Trebuchet MS;
+}
+#bordering { 
+    border-image: url(dog.jpg) 30 round;
 }
